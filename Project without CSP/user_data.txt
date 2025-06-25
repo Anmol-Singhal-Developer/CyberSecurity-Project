@@ -1,0 +1,61 @@
+Username: chromeBasic, Password: 123, First Name: chrome, Last Name: basic, Middle Name: CB, Date of Birth: 1990-04-12, Favorite Color: red' <a onmouseover="alert(document.cookie)">, Address: UC Denver, Phone Number: 3456789012, Email: chrome@gmail.com, About: chrome basic without any extention
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Username: chrome_counterXSS, Password: 123, First Name: chrome, Last Name: counterXSS, Middle Name: cCXX, Date of Birth: 1990-09-07, Favorite Color: green' <a onmouseover="alert(document.cookie)">, Address: cu denver, Phone Number: 1234567890, Email: chrome_counterXSS@gmail.com, About: hello 123
+
+
+
+
+Username: chrome_scriptBlock, Password: 123, First Name: chrome, Last Name: scriptBlock, Middle Name: CSB, Date of Birth: 1988-02-21, Favorite Color: yellow' <a onmouseover="alert(document.cookie)">, Address: cu denver, Phone Number: 4567890123, Email: scriptBlock@gmail.com, About: scriptBlock 123
+
+
+
+
+Username: braveBasic, Password: 123, First Name: brave, Last Name: Basic, Middle Name: BB, Date of Birth: 2012-12-12, Favorite Color: violet' <a onmouseover="alert(document.cookie)">, Address: cu denver, Phone Number: 2345678901, Email: braveBasic@gmail.com, About: brave Basic
+
+
+
+
+Username: brave_NoScript, Password: 123, First Name: brave, Last Name: NOScript, Middle Name: BNS, Date of Birth: 2001-11-11, Favorite Color: magenta'  <a onmouseover="alert(document.cookie)">, Address: cu denver, Phone Number: 3456789012, Email: noscript@gmail.com, About: brave NoScript
+
+
+
+
+Username: brave_ScriptSafe, Password: 123, First Name: brave, Last Name: scriptSafe, Middle Name: BSS, Date of Birth: 1990-08-06, Favorite Color: pink' <a onmouseover="alert(document.cookie)">, Address: cu denver, Phone Number: 1112345678, Email: scriptsafe@gmail.com, About: script safe
+
+
+
+
+
+
+Username: operaBasic, Password: 123, First Name: opera, Last Name: basic, Middle Name: OB, Date of Birth: 1975-04-05, Favorite Color: orange' <a onmouseover="alert(document.cookie)">, Address: cu denver, Phone Number: 6789801236, Email: operaBasic@gmail.com, About: opera Basic
+
+
+
+
+Username: opera_webSecurityAudit, Password: 123, First Name: opera, Last Name: WebSecurityAudit, Middle Name: OWSA, Date of Birth: 2003-01-02, Favorite Color: white' <a onmouseover="alert(document.cookie)">, Address: cu denver, Phone Number: 2231456789, Email: wedsecurityaudit@gmail.com, About: web security audit
+
+
+
+
+
+
+Username: opera_ScriptSafe, Password: 123, First Name: opera, Last Name: ScriptSafe, Middle Name: OSS, Date of Birth: 1891-02-05, Favorite Color: black' <a onmouseover="alert(document.cookie)">, Address: cu denver, Phone Number: 3341124562, Email: scriptsafe@gmail.com, About: script safe
+
+
+
+Username: Anmol, Password: Anmol, First Name: Anmol, Last Name: Singhal, Middle Name: -, Date of Birth: 2024-04-30, Favorite Color: Red, Address: cxvvf, Phone Number: 9999999999, Email: Xss.attack@gmail.com, About: This is a venerable website to do xss attacks.

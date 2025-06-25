@@ -1,0 +1,9 @@
+Uploaded file: uploads\chromeBasic\attack.html
+Uploaded file: uploads\chrome_counterXSS\attack.html
+Uploaded file: uploads\chrome_scriptBlock\attack.html
+Uploaded file: uploads\braveBasic\attack.html
+Uploaded file: uploads\brave_NoScript\attack.html
+Uploaded file: uploads\brave_ScriptSafe\attack.html
+Uploaded file: uploads\operaBasic\attack.html
+Uploaded file: uploads\opera_webSecurityAudit\attack.html
+Uploaded file: uploads\opera_ScriptSafe\attack.html
